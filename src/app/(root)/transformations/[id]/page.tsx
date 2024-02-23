@@ -2,8 +2,7 @@ import React from 'react'
 
 const TransformationPage = () => {
   return (
-    <div>TransformationPage
-    </div>
+    <div>TransformationPage</div>
   )
 }
 
